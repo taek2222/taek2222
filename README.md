@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taek2222&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </div>
 
 
