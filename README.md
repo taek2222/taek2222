@@ -10,7 +10,9 @@
   <h3> ⌨️ studying </h3>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-    
-    
+  
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 
