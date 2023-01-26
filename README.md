@@ -11,8 +11,6 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taek2222&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </div>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taek2222&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 
