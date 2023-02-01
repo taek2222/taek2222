@@ -15,6 +15,6 @@
   <h3> 🛠️ Git Stats </h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek2222&show_icons=true&theme=algolia)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taek2222&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taek2222&exclude_repo=dkssud8150.github.io&layout=compact&theme=algolia" />
 </div>
 
