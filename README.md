@@ -16,5 +16,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek2222&show_icons=true&theme=algolia)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taek2222&exclude_repo=dkssud8150.github.io&layout=compact&theme=algolia" />
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oot309)](https://solved.ac/oot309/)
 </div>
 
