@@ -1,6 +1,6 @@
 <div align="center">
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58ACFA,100:2EFEF7&height=180&fontAlignY=36&section=header&text=Taek_2222%20Github%20🗂️&fontSize=35&fontColor=FAFAFA" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,1,7,14,20,24,27)&height=160&fontAlignY=43&descAlignY=64&section=header&text=Taek_2222&desc=Github%20🗂️&animation=fadeIn&fontSize=40&fontColor=FAFAFA&stroke=000000&strokeWidth=0.5"/>
   <h3> 📚 Skills </h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
