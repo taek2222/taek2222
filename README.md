@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,1,7,14,20,24,27)&height=160&fontAlignY=43&descAlignY=64&section=header&text=Taek_2222&desc=Github%20🗂️&animation=fadeIn&fontSize=40&fontColor=FAFAFA&stroke=000000&strokeWidth=0.5"/>
 
 ### 안녕하세요. 택이입니다 👋
-  - 항상 `꾸준함`을 통해 성장하고 있습니다.
-  - `Java | Spring` 프레임워크를 활용한 **Backend 개발자**를 꿈꾸고 있습니다.
-  - 수정중..
+  - 🌱 **`꾸준한`** 학습을 통해 끊임없이 성장하고 있습니다.
+  - 💭 기술로 문제를 해결하는 **Backend 개발자**가 목표입니다.
+  - 💬 **`소통과 협업`** 을 통해 더 나은 결과를 만들고, 함께 성장하는 것을 중요하게 생각합니다.
+  - 🫧 **`Clean Coding과 OOP`** 설계를 지향하며, 견고하고 유지보수 가능한 코드 작성에 집중합니다.
 
 
 <h2> 📚 Skills </h2>
