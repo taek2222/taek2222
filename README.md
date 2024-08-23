@@ -18,7 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,gcp,jenkins,githubactions,docker,postgres)](https://skillicons.dev)
 
-<h2> 🛠️ Git Stats </h2>
+<h2> 📌 Git Stats </h2>
 
 <div align="center">
 
