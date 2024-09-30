@@ -11,12 +11,12 @@
 
 <h3> ⚙️ Tech Stack </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
   
   
 <h3> ⚒️ Tried Stack </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,gcp,jenkins,githubactions,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,gcp,githubactions,docker,postgres)](https://skillicons.dev)
 
 <h2> 📌 Git Stats </h2>
 
