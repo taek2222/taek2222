@@ -31,14 +31,14 @@
 
 <div align="center">
 
-| 📅 Period       | 🚀 Project | 🌐 Deployment | 🛠 Role |
-|-----------------|------------|---------------|---------|
-| 2025.07 ~  | [🎉 페스타북](https://github.com/woowacourse-teams/2025-festabook) | - | BE |
-| 2025.04 ~ 2025.07 | [📚 MaTilDa](https://github.com/TilGuy/BE_TilGuy) | 🔗 [Web](https://matilda.woowacourse.com/) | BE/FE |
-| 2024.08 ~ 2025.02 | [🦋 나비(나누고 비용아끼자)](https://github.com/BUTTERFLY-CODE-NEAR) | 📱 [AppStore](https://apps.apple.com/kr/app/%EA%B3%B5%EB%8F%99%EA%B5%AC%EB%A7%A4-%EB%82%98%EB%B9%84/id6737232849) | BE |
-| 2024.03 ~ 2024.06 | [🏗️ 공사장 안전 관리 시스템](https://github.com/GWNU-Capstone/Safety_Management) | - | BE |
-| 2024.03 ~ 2024.06 | [🌱 식물 자동 성장 및 모니터링 시스템](https://github.com/taek2222/Growing_Plants) | - | BE |
-| 2024.01 ~ 2024.03 | [🎪 대학교 동아리 축제 정보 시스템](https://github.com/taek2222/University_Club_Project) | - | BE / FE |
-| 2023.10 ~ 2023.12 | [🏠 IoT 기반 홈 제어 및 모니터링 시스템](https://github.com/taek2222/Embedded_IoT_Project) | - | BE / APP |
+| 📅 Period       | 🚀 Project | 🛠 Role | 🌐 Deployment |
+|-----------------|------------|---------|---------------|
+| 2025.07 ~  | 🎉 [페스타북](https://github.com/woowacourse-teams/2025-festabook) | BE |  |
+| 2025.04 ~ 2025.07 | 📚 [MaTilDa](https://github.com/TilGuy/BE_TilGuy) | BE / FE | 🔗 [Web](https://matilda.woowacourse.com/) |
+| 2024.08 ~ 2025.02 | 🦋 [나비(나누고 비용아끼자)](https://github.com/BUTTERFLY-CODE-NEAR) | BE | 📱 [AppStore](https://apps.apple.com/kr/app/%EA%B3%B5%EB%8F%99%EA%B5%AC%EB%A7%A4-%EB%82%98%EB%B9%84/id6737232849) |
+| 2024.03 ~ 2024.06 | 🏗️ [공사장 안전 관리 시스템](https://github.com/GWNU-Capstone/Safety_Management) | BE |  |
+| 2024.03 ~ 2024.06 | 🌱 [식물 자동 성장 및 모니터링 시스템](https://github.com/taek2222/Growing_Plants) | BE |  |
+| 2024.01 ~ 2024.03 | 🎪 [대학교 동아리 축제 정보 시스템](https://github.com/taek2222/University_Club_Project) | BE / FE |  |
+| 2023.10 ~ 2023.12 | 🏠 [IoT 기반 홈 제어 및 모니터링 시스템](https://github.com/taek2222/Embedded_IoT_Project) | BE / APP |  |
 
 </div>
