@@ -33,7 +33,7 @@
 
 | 📅 Period       | 🚀 Project | 🛠 Role | 🌐 Deployment |
 |-----------------|------------|---------|---------------|
-| 2025.07 ~  | 🎉 [페스타북](https://github.com/woowacourse-teams/2025-festabook) | BE |  |
+| 2025.07 ~  | 🎉 [페스타북](https://github.com/woowacourse-teams/2025-festabook) | BE | 📱[PlayStore](https://play.google.com/store/apps/details?id=com.daedan.festabook&hl=ko) 📱[AppStore](https://apps.apple.com/kr/app/%ED%8E%98%EC%8A%A4%ED%83%80%EB%B6%81-festabook/id6752591661) |
 | 2025.04 ~ 2025.07 | 📚 [MaTilDa](https://github.com/TilGuy/BE_TilGuy) | BE / FE | 🔗 [Web](https://matilda.woowacourse.com/) |
 | 2024.08 ~ 2025.02 | 🦋 [나비(나누고 비용아끼자)](https://github.com/BUTTERFLY-CODE-NEAR) | BE | 📱 [AppStore](https://apps.apple.com/kr/app/%EA%B3%B5%EB%8F%99%EA%B5%AC%EB%A7%A4-%EB%82%98%EB%B9%84/id6737232849) |
 | 2024.03 ~ 2024.06 | 🏗️ [공사장 안전 관리 시스템](https://github.com/GWNU-Capstone/Safety_Management) | BE |  |
