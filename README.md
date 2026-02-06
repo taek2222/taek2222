@@ -11,21 +11,33 @@
 
 ### ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql)](https://skillicons.dev)
   
   
 ### ⚒️ Tried Stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,gcp,githubactions,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,githubactions,docker,postgres)](https://skillicons.dev)
 
 ## 📌 Stats
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek2222&show_icons=true&theme=tokyonight&hide=stars)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oot309)](https://solved.ac/oot309/)
 
 </div>
+
+
+## 💼 Experience
+
+<div align="center">
+
+| 📅 Period          | 🏢 Company | 🚀 Team | 🛠 Tech Stack |
+|------------------- |-----------|---------|---------------|
+| 2026.01 ~          | [**ConnectWave (Danawa)**](https://connectwave.co.kr/) | Backend Developer | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white) ![Exposed](https://img.shields.io/badge/Exposed-ORM-orange?style=flat-square) |
+| 2025.02 ~ 2025.11  | [**우아한테크코스 7기**](https://www.woowacourse.io) | Backend 과정 수료 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) |
+
+</div>
+
 
 ## 📂 Projects
 
